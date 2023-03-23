@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Outfit", sans-serif;
+  background-color: #d6e1ff;
+}
+
+.box {
+  width: 450px;
+  border-radius: 20px;
+  background: #ffffff;
+}
+
+.img1 {
+  border-radius: 20px 20px 0px 0px;
+}
+
+.box2 {
+  padding: 48px;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: 900;
+  text-align: center;
+  margin-top: -30px;
+}
+
+.paragraph {
+  text-align:center;
+  font-style: normal;
+  font-weight: 500px;
+  font-size: 19px;
+  line-height: 26px;
+  margin-top: 20px;
+  width: 354px;
+  height: 78px;
+
+}
+
+.annual {
+  font-size: 16px;
+  font-weight: 900;
+  line-height: 21px;
+  padding: 25px 145px 10px 90px;
+}
+
+.price {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  margin-left: 90px;
+  margin-top: -20px;
+}
+
+.change {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 19px;
+  margin-left: 77%;
+  margin-top: -11%;
+  color: #382AE1;
+  
+}
+
+.cancel {
+  font-size: 15px;
+  font-weight: 900;
+  line-height: 20px;
+  letter-spacing: 0px;
+  text-align: left;
+  padding: 30px;
+  margin-left: 100px;
+ 
+  
+}
+
+.proceed {
+  background: rgba(56, 42, 225, 1);
+  box-shadow: 0px 20px 20px rgba(56, 42, 225, 0.190291);
+  border-radius: 11px;
+  height: 50px;
+  width: 354px;
+  border-radius: 11px;
+  border: none;
+  font-weight: 900px;
+  font-size: 15px;
+  margin-top: 40px;
+  color: rgba(255, 255, 255, 1);
+}
+
+
+
+.element {
+  background: #F7F9FF;
+  height: 98px;
+width: 354px;
+border-radius: 11px;
+
+
+}
+
+.music {
+  margin-top: -30px;
+  margin-left: 20px;
+}
+
+.annual-music-price-div {
+  margin-top: 50px;
+  
+}
